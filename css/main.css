@@ -1,0 +1,40 @@
+a {
+  color:#Ef3b68;
+    text-decoration: none;
+}
+
+h2.ui.header {
+    border: none;
+    margin: -webkit-calc(2rem - .165em)0 1rem;
+    margin: calc(2rem - .165em)0 1rem;
+    padding: 0;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    line-height: 1.33em;
+    text-transform: none;
+    color:#Ef3b68;
+}
+
+.img_text{
+    text-align: left;
+    padding-left: 20%;
+}
+.ui.secondary.menu {
+    background-color:white;
+}
+
+.img{
+    float: left;
+    margin: 0 0 20em 20em;
+}
+
+.ui.segment {
+    position: relative;
+     background-color:transparent; 
+    box-shadow:none;
+    margin: 1rem 0;
+    padding: 1em;
+
+    border: none;
+}
+
